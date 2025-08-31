@@ -12,8 +12,8 @@ This project is a real-time web application built with Streamlit and OpenCV that
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/opencv-color-detection.git
-   cd opencv-color-detection
+   git clone https://github.com/Nikhil-Maheshwari-10/Opencv-color-detection.git
+   cd Opencv-color-detection
    ```
 
 2. **Install dependencies:**
@@ -54,3 +54,4 @@ This project is licensed under the MIT License.
 ---
 
 *Created by Nikhil Maheshwari*
+
